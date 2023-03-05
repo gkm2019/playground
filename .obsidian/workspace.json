@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-03-05.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b640a10ed5162d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eungjae/eungjae readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ace47688ed868e61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kyeongmin/kyeongmin readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e5721ab39ab197d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kyeongmin/kyeongmin readme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-03-05.md",
+                "file": "kyeongmin/kyeongmin readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-03-05.md",
+                "file": "kyeongmin/kyeongmin readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-03-05.md"
+                "file": "kyeongmin/kyeongmin readme.md"
               }
             }
           }
@@ -160,12 +196,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d46942a20a00540",
+  "active": "3e5721ab39ab197d",
   "lastOpenFiles": [
-    "template/001. note.md",
-    "Daily/2023-03-05.md",
-    "Daily",
+    "eungjae/eungjae readme.md",
+    "spear/spear readme.md",
+    "kyeongmin/kyeongmin readme.md",
     "README.md",
+    "Daily/2023-03-05.md",
+    "template/001. note.md",
+    "Daily",
     "tmp.md",
     "template",
     "spear",
