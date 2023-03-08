@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0001.002 git rebase.md",
+                "file": "0001. Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03e1160d693afafe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0001.003 git commit tag.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0001.002 git rebase.md",
+                "file": "0001.003 git commit tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0001.002 git rebase.md",
+                "file": "0001.003 git commit tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0001.002 git rebase.md"
+                "file": "0001.003 git commit tag.md"
               }
             }
           }
@@ -172,11 +184,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "265f4056efc2a0ff",
+  "active": "03e1160d693afafe",
   "lastOpenFiles": [
-    "0001.001 cherry-pick.md",
-    "0001.002 git rebase.md",
     "0001. Git.md",
+    "0001.003 git commit tag.md",
+    "0001.002 git rebase.md",
+    "0001.001 cherry-pick.md",
     "template/001. note.md",
     "kyeongmin/kyeongmin readme.md",
     "conflict-files-obsidian-git.md",
