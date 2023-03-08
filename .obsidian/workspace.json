@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kyeongmin/kyeongmin readme.md",
+                "file": "Daily/2023-03-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b067b2b4fe19ad80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0001. Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kyeongmin/kyeongmin readme.md",
+                "file": "0001. Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kyeongmin/kyeongmin readme.md",
+                "file": "0001. Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kyeongmin/kyeongmin readme.md"
+                "file": "0001. Git.md"
               }
             }
           }
@@ -196,13 +208,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e5721ab39ab197d",
+  "active": "b067b2b4fe19ad80",
   "lastOpenFiles": [
+    "Daily/2023-03-05.md",
+    "0001. Git.md",
+    "kyeongmin/kyeongmin readme.md",
     "eungjae/eungjae readme.md",
     "spear/spear readme.md",
-    "kyeongmin/kyeongmin readme.md",
     "README.md",
-    "Daily/2023-03-05.md",
     "template/001. note.md",
     "Daily",
     "tmp.md",
